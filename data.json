@@ -1,0 +1,35 @@
+{
+  "left":{
+    "picture":"pro1.png",
+    "name":"K.V.SRI RAMYA",
+    "EmailID":"sriramyakv@gmail.com",
+    "MobileNumber":"9876543210"
+  },
+"education":[{
+"course":"Btech(ComputerScienceandEngineering)",
+"college":["RCEW","2015-2019","80%"]
+},
+{
+"course":"Btech(ElectricalandElectronicsEngineering)",
+"college":["GPCET","2015-2019","76%"]
+},
+{
+"course":"Btech(MechanicalEngineering)",
+"college":["GPREC","2015-2019","75%"]
+}
+],
+"skills":[
+  {
+    "name":"operating systems",
+    "value":"Manchintosh"
+  },
+  {
+    "name":"Web Technology",
+    "value":"HTML,CSS,JS,JSON,PHP,JQUERY"
+  },
+  {
+    "name":"Programming Languages",
+    "value":"C,C++,C#,JAVA"
+  }
+]
+}
